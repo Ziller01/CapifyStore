@@ -10,6 +10,12 @@ let categories = [
 
 let products = [
     // ------------------------------- (1) Accessories
+    { categoryId: 1, price: 250, name: "الاسم في الصورة", image: "https://cdn.discordapp.com/attachments/1378392111392755885/1382927502887882822/4e9ea074-848f-4a0a-81e5-2ec253fa315b.jpg?ex=6852351a&is=6850e39a&hm=a0bf00025d9557d1208e4c478fcf1eb1401bc65f5c4a73d832a22a9a688d6eea&" },
+    { categoryId: 1, price: 250, name: "الاسم في الصورة", image: "https://cdn.discordapp.com/attachments/1378392111392755885/1382927503223423119/f1a292ba-a47d-40d8-8a0b-4fd6b8929a2c.jpg?ex=6852351a&is=6850e39a&hm=819053862614116754eb787d8dfb75ff3bc192f40616bff9c1cbaa05cc576250&" },
+    { categoryId: 1, price: 250, name: "الاسم في الصورة", image: "https://cdn.discordapp.com/attachments/1378392111392755885/1382927503617691719/c08926b8-6eb2-440f-b377-3debd0769de8.jpg?ex=6852351a&is=6850e39a&hm=25cd2f6a7b7e99147d7156a35f6f768c77c8786345a4cea90a4da5de63c05000&" },
+    { categoryId: 1, price: 250, name: "الاسم في الصورة", image: "https://cdn.discordapp.com/attachments/1378392111392755885/1382927503919812738/7244e4c3-c663-4519-b7e5-72fa20bb7a10.jpg?ex=6852351a&is=6850e39a&hm=9666e969fea94953c36a0314771b7021428714b5eccefbc860620a5f0d4323f5&" },
+    { categoryId: 1, price: 250, name: "الاسم في الصورة", image: "https://cdn.discordapp.com/attachments/1378392111392755885/1382927504217477220/abe702c1-e329-46e6-8c5d-ef34f2c07d21.jpg?ex=6852351a&is=6850e39a&hm=c76345fa0a51b2103d77ae29e706b15afb6ac5bcf2773e35abaa9c7eeb33460f&" },
+    
     { categoryId: 1, price: 170, name: "Captain America - Poster 3D", image: "https://capifys.com/media/products/2025-02-20_8ba457488bd22.webp" },
     { categoryId: 1, price: 170, name: "Wolverine - Poster 3D", image: "https://capifys.com/media/products/2025-02-21_9b873d805c18c.webp" },
     { categoryId: 1, price: 170, name: "Ben Grimm - Poster 3D", image: "https://capifys.com/media/products/2025-02-21_19c6629bb497c.webp" },
